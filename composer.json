@@ -1,0 +1,8 @@
+{
+    "name": "docker/rabbitmq",
+    "license": "MIT",
+    "type": "project",
+    "require": {
+        "videlalvaro/php-amqplib": "2.2.*",
+    }
+}
